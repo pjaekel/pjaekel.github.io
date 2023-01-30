@@ -1,2 +1,5 @@
-# pjaekel.github.io
-My personal data science portfolio
+# My Projects
+
+The follwoing presents my personal data science projects
+
+## PROJECT 1
